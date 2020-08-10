@@ -25,7 +25,7 @@ function fibonacciGenerator(n) {
 Call the function
 
 ```
-fibonacciGenerator(10)
+fibonacciGenerator(20)
 ```
 
 <br>
